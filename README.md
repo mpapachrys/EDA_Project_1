@@ -1,2 +1,2 @@
 # EDA_Project_1
-My first Exploratory Data Analysis Project with python and streamlit
+My first Exploratory Data Analysis Project using Python and Streamlit
