@@ -3,7 +3,7 @@ My first Exploratory Data Analysis Project using Python and Streamlit
 
 
 
-Team:
+**Team:**
 
 -Nikos Maraletos
 
