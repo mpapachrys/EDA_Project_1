@@ -2,7 +2,10 @@
 My first Exploratory Data Analysis Project using Python and Streamlit
 
 Team:
+
 -Nikos Maraletos
+
 -Emmanouil Papachrisanthou
+
 -Dimitris Papachrisanthou
 
