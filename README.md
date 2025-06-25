@@ -1,8 +1,8 @@
 # EDA_Project_1
 My first Exploratory Data Analysis Project using Python and Streamlit
 
-Team:
 
+Team:
 -Nikos Maraletos
 
 -Emmanouil Papachrisanthou
